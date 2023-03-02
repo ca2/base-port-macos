@@ -1,0 +1,15 @@
+[submodule "pcre"]
+	path = pcre
+	url = ../../cpp-port/pcre
+[submodule "id3lib"]
+	path = id3lib
+	url = ../../cpp-port/id3lib
+[submodule "libmpg123"]
+	path = libmpg123
+	url = ../../cpp-port/libmpg123
+[submodule "libarchive"]
+	path = libarchive
+	url = ../../cpp-port/libarchive
+[submodule "idn"]
+	path = idn
+	url = ../../cpp-port/idn
