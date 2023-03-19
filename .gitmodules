@@ -13,3 +13,9 @@
 [submodule "idn"]
 	path = idn
 	url = ../../cpp-port/idn
+[submodule "archive"]
+	path = archive
+	url = ../../cpp-port/archive
+[submodule "mpg123"]
+	path = mpg123
+	url = ../../cpp-port/mpg123
