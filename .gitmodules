@@ -23,3 +23,7 @@
 	path = unac
 	url = ../../cpp-port/unac
 	branch = main
+[submodule "pugixml"]
+	path = pugixml
+	url = ../../cpp-port/pugixml
+	branch = main
