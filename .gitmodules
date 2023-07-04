@@ -27,3 +27,11 @@
 	path = pugixml
 	url = ../../cpp-port/pugixml
 	branch = main
+[submodule "minizip"]
+	path = minizip
+	url = ../../cpp-port/minizip
+	branch = main
+[submodule "zlib"]
+	path = zlib
+	url = ../../cpp-port/zlib
+	branch = main
