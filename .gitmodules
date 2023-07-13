@@ -35,3 +35,15 @@
 	path = zlib
 	url = ../../cpp-port/zlib
 	branch = main
+[submodule "stb"]
+	path = stb
+	url = ../../cpp-port/stb
+	branch = main
+[submodule "openddlparser"]
+	path = openddlparser
+	url = ../../cpp-port/openddlparser
+	branch = main
+[submodule "zip"]
+	path = zip
+	url = ../../cpp-port/zip
+	branch = main
