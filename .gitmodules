@@ -47,3 +47,7 @@
 	path = zip
 	url = ../../cpp-port/zip
 	branch = main
+[submodule "curl"]
+	path = curl
+	url = ../../cpp-port/curl
+	branch = main
