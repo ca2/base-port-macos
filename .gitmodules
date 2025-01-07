@@ -51,3 +51,7 @@
 	path = curl
 	url = ../../cpp-port/curl
 	branch = main
+[submodule "zstd"]
+	path = zstd
+	url = ../../cpp-port/zstd
+	branch = main
